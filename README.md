@@ -12,4 +12,10 @@ Repository contains implementation of  various concepts used during Machine lear
 
 <h2> 02 Experiment Tracking and Model Registry </h2>
 
+<ol>
+  <li> Example of Experiment Tracking using MLFlow library </li>
+  <li> Model Registry and transitioning the trained model using model registry </li>
+  
+</ol>
+
 
