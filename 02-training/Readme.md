@@ -31,3 +31,7 @@ main modules are
 
 <p> MLFlow not only tracks the model and metrics related data but also source code, author of the run and start and end time of the run </p>
 
+<h2> Model Registry </h2>
+
+<p> Model Registry lists the models which are ready for the production and which are in the production currently, and we are assigning labels to each models to differentiate them, like the models which are ready to be in production and are retrained then they are assigned to staging, and the models which are currently in 
+production are assigned to production. </p> 
