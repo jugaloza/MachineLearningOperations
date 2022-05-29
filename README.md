@@ -7,5 +7,9 @@ Repository contains implementation of  various concepts used during Machine lear
   <li> What is MLOps </li>
   <li> MLOps Maturity model </li>
   <li> Running Example NYC taxi dataset </li>
+  <li> Homework </li>
 </ol>
+
+<h2> 02 Experiment Tracking and Model Registry </h2>
+
 
