@@ -45,11 +45,15 @@ Phases of MLOps:
   <tr>
     <th> 2 </th>
     <th> Automated Training </th>
+    <th> We have Training pipeline such as train.py scripts for training the model, Tracking the experiment for model reproducibility, and registering model in model registry, when an organization have more than 2 or 3 use cases, then one should consider this maturity model </th>
   </tr>
   <tr>
     <th> 3 </th>
     <th> Automated Deployment </th>
+    <th> Easy to deploy model, Model Monitoring and performing AB testing for deploying best model in production </th>
   </tr>
   <tr>
     <th> 4 </th>
     <th> Full MLOps Automated Operations </th>
+    <th> No human decision involved in Full MLOps automated operations, Production systems are providing information on how to improve systems </th>
+  </tr>
