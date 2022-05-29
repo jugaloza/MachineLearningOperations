@@ -1,6 +1,6 @@
 # Introduction to Machine learning Operations
 
-<h2> What is MLOps </h2>
+<h2> 1. What is MLOps </h2>
 
 Machine learning is not only about modelling and selecting appropriate network architecture or method for solving any business problem. Even 99 % accurate model deteriorates over time 
 and most of the bussiness suffers from this because they dont have strategies to deploy and monitor the machine learning models. There comes the Machine learning Operations come to the rescue.
@@ -21,7 +21,7 @@ Phases of MLOps:
 7. Model Monitoring
 8. Model Re-Training
 
-<h2> MLOps Maturity Model </h2>
+<h2> 2. MLOps Maturity Model </h2>
 
 <table>
   <tr>
@@ -57,3 +57,8 @@ Phases of MLOps:
     <th> Full MLOps Automated Operations </th>
     <th> No human decision involved in Full MLOps automated operations, Production systems are providing information on how to improve systems </th>
   </tr>
+  
+  <h2> 3. Running Example </h2>
+  <p> duration-prediction.ipynb notebook contains code snippet for NYC-taxi duration prediction model training  </p>
+  
+  
