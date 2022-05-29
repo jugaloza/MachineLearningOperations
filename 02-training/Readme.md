@@ -11,7 +11,7 @@ a ML experiment such as:
   <li> Metrics </li>
 </ol>
 
-<h3> Why experiment tracking is important </h3>
+<h3> 1.1 Why experiment tracking is important </h3>
 <ol>
   <li> Reproducibility</li>
   <li> Model/Data Lineage </li>
@@ -19,7 +19,7 @@ a ML experiment such as:
   <li> Easy to select best models by tracking experiments </li>
 </ol>
 
-<h3> MLFlow Library </h3>
+<h3> 1.2 MLFlow Library </h3>
 MLFlow is an open source machine learning life cycle library. This library helps to tracks experiments by logging metrics,hyperparameters, saving models and its 
 main modules are
 <ol>
