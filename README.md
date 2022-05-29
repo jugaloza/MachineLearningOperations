@@ -1,5 +1,5 @@
 # MachineLearningOperations
-Repository contains implementation of  various concepts used during Machine learning lifecycle  and  Machine learning Operations 
+Repository contains implementation of  various concepts used during Machine learning lifecycle  and  Machine learning Operations  which I have worked on while taking the course on <a href="https://github.com/vishal-git/mlops/blob/main/README.md"> MLOps Zoomcamp </a>
 
 <h2> 01. Intro </h2>
 
