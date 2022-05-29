@@ -19,4 +19,15 @@ a ML experiment such as:
   <li> Easy to select best models by tracking experiments </li>
 </ol>
 
+<h3> MLFlow Library </h3>
+MLFlow is an open source machine learning life cycle library. This library helps to tracks experiments by logging metrics,hyperparameters, saving models and its 
+main modules are
+<ol>
+  <li> Tracking </li>
+  <li> Models </li>
+  <li> Model Registry </li>
+  <li> Projects </li>
+</ol>
+
+<p> MLFlow not only tracks the model and metrics related data but also source code, author of the run and start and end time of the run </p>
 
