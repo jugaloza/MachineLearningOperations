@@ -58,7 +58,9 @@ Phases of MLOps:
     <th> No human decision involved in Full MLOps automated operations, Production systems are providing information on how to improve systems </th>
   </tr>
   
-  <h2> 3. Running Example </h2>
-  <p> duration-prediction.ipynb notebook contains code snippet for NYC-taxi duration prediction model training  </p>
+</table>
+
+<h2> 3. Running Example </h2>
+<p> duration-prediction.ipynb notebook contains code snippet for NYC-taxi duration prediction model training  </p>
   
   
