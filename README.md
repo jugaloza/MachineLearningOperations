@@ -20,7 +20,7 @@ Repository contains implementation of  various concepts used during Machine lear
 <h2> 03 Workflow Orchestration </h2>
 
 <ol>
-  <li> Workflow Orchestration </li>
+  <li> What is Workflow Orchestration? </li>
   <li> Negative Engineering </li>
   <li> Prefect </li>
 </ol>
