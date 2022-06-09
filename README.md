@@ -20,9 +20,9 @@ Repository contains implementation of  various concepts used during Machine lear
 <h2> 03 Workflow Orchestration </h2>
 
 <ol>
-  <li> What is Prefect? </li>
+  <li> Workflow Orchestration </li>
   <li> Negative Engineering </li>
-  <li> Flow,Task and Deployments in Prefect </li>
+  <li> Prefect </li>
 </ol>
   
 
