@@ -18,8 +18,7 @@ First we need to figure out when we want predictions, continous predictions or p
 <ol>
   <li> Batch Mode </li>
   <p> Run the model regularly </p>
-  
-  ![Alt text](BatchMode.png?raw=true)
+![Alt text](BatchMode.png?raw=true)
   
   Best example: Marketing(churn predictions)
   Every month some companies need to know about the customers for getting churn analysis
