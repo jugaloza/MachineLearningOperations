@@ -24,6 +24,13 @@ Repository contains implementation of  various concepts used during Machine lear
   <li> Negative Engineering </li>
   <li> Prefect </li>
 </ol>
+
+<h2> Model Deployment </h2>
+
+<ol> 
+  <li> What is Model Deployment ? </li>
+  <li> Options for Model Deployment </li>
+</ol>
   
 
 
