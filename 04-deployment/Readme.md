@@ -25,7 +25,11 @@ Best example: Marketing(churn predictions)
 Every month some companies need to know about the customers for getting churn analysis
   
 <li> Online Mode </li>  
-  <ul> Web Service </ul>
-  Example: Predicting ride duration is the best example of deploying model as a web service 
+<ul> Web Service </ul>
+Example: Predicting ride duration is the best example of deploying model as a web service 
+
+
 ![Alt text](Online_Mode.png?raw=true)
+
+
 
