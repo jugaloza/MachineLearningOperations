@@ -7,6 +7,8 @@ so that is what comes under the model deployment.
 
 <h2> Options for model deployment </h2>
 
+![Alt text](model_deployment_options.png?raw=true)
+
 There are multiple options for model deployment phase.
 
 First we need to figure out when we want predictions, continous predictions or predictions after some time let say after minute, hours, two hours or after days.
