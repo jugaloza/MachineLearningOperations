@@ -34,11 +34,15 @@ Example: Predicting ride duration is the best example of deploying model as a we
   
   <li> Streaming </li>
 
+![Alt text](Streaming_mode.png?raw=true)
+  
+
+
 Customer after booking cab customer's app based on location and other
 property, backend(producer) will generate events and different models(consumer) for trip predictions
 and duration predictions will be running and inferencing.
 
-![Alt text](Streaming_Mode.png?raw=true) 
+   
   
 
   
